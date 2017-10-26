@@ -102,4 +102,8 @@ __background-color__
 background-color: tomato;
 ```
 
+__color al texto__
+```css
+color: DodgerBlue;
+```
 
