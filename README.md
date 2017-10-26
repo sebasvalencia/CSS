@@ -121,6 +121,32 @@ rgb(255,0,0) es rojo.
 ```
 #ff0000 es rojo.
 
+## Fondos de CSS
+
+__background-color__
+```css
+background-color: tomato;
+```
+__background-image__
+```css
+background-image: url('imagen_css.png');
+```
+
+__background-image__
+Solo se repite horizontalmente
+```css
+background-repeat: repeat-x;
+```
+Solo se mostrara la imagen una vez
+```css
+background-repeat: no-repeat;
+```
+
+
+
+
+
+
 
 
 
