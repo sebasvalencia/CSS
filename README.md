@@ -108,15 +108,18 @@ color: DodgerBlue;
 ```
 
 ## RGB
-
+```css
 rgb(red, green, blue).
-
+```
 Se define una intensidad entre 0 y 255.
 
 rgb(255,0,0) es rojo.
 
-
-
+## HEX
+```css
+#rrggbb
+```
+#ff0000 es rojo.
 
 
 
