@@ -107,3 +107,19 @@ __color al texto__
 color: DodgerBlue;
 ```
 
+## RGB
+
+rgb(red, green, blue).
+
+Se define una intensidad entre 0 y 255.
+
+rgb(255,0,0) es rojo.
+
+
+
+
+
+
+
+
+
