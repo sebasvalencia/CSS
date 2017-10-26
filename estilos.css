@@ -35,6 +35,13 @@ p{
     height: 100px;
 }
 
+.fondoImagenNoSeRepiteSeMueveElFondo{
+    background-image: url('imagen_css.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+    height: 100px;
+}
+
 
 
 

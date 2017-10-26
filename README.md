@@ -142,6 +142,12 @@ Solo se mostrara la imagen una vez
 background-repeat: no-repeat;
 ```
 
+__background-position__
+Especifica la posicion de la imagen de fondo
+```css
+background-position: right top;
+```
+
 
 
 
