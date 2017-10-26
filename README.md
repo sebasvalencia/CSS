@@ -87,4 +87,19 @@ Hay 3 maneras de insertar css:
 2. Hojas de estilo externas e internas (en la sección de la cabeza)
 3. Navegador predeterminado
 
+## Colores
+
+Los colores se definen:
+* RGB
+* HEX
+* HSL
+* RGBA
+* HSLA 
+* nombres
+
+__background-color__
+```css
+background-color: tomato;
+```
+
 
