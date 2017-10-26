@@ -54,6 +54,37 @@ p{
 <p class="pClass">Ejemplo de usar selector basado en Class</p>
 ```
 
+## Maneras de insertar CSS
 
+Hay 3 maneras de insertar css:
+1. Archivo externo
+
+```html
+<head>
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+```
+
+2. Dentro de la página
+```html
+<head>
+    <style>
+        body{
+            background-color: blue;
+        }
+    </style>
+</head>
+```
+
+3. En línea
+```html
+<h1 style="color:orange;">Encabezado</h1>
+```
+
+## Orden de cascada
+
+1. Estilo en línea (dentro de un elemento HTML)
+2. Hojas de estilo externas e internas (en la sección de la cabeza)
+3. Navegador predeterminado
 
 
